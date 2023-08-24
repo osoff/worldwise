@@ -13,28 +13,64 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Helsinki",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2023-08-08T12:28:40.000Z",
+      "notes": "qwertyk",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "60.15790959006861",
+        "lng": "24.940595164341534"
       },
-      "id": 17806751
+      "id": 98443198
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "El Viso",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T17:11:09.898Z",
+      "notes": "gfgd",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "38.58252615935333",
+        "lng": "-4.984782743133368"
       },
-      "id": 98443197
+      "id": 98443200
+    },
+    {
+      "cityName": "Mirmande",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-23T19:45:16.451Z",
+      "notes": "",
+      "position": {
+        "lat": "44.69989765840321",
+        "lng": "4.841725254518142"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Sereilhac",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-23T21:18:02.413Z",
+      "notes": "qwertyk",
+      "position": {
+        "lat": "45.75219336063106",
+        "lng": "1.0564875583395053"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Calatanazor",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T21:19:33.734Z",
+      "notes": "",
+      "position": {
+        "lat": "41.73852846935917",
+        "lng": "-2.7877371485473956"
+      },
+      "id": 98443205
     }
   ]
 }
